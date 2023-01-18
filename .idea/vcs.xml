@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Battleship-Client/Battleship-Client-Kein-Admiral" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Battleship-Server" vcs="Git" />
   </component>
 </project>

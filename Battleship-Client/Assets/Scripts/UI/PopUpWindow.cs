@@ -94,11 +94,13 @@ namespace BattleshipGame.UI
             if (declineCall != null) decline.onClick.AddListener(declineCall);
             confirm.onClick.AddListener(Close);
             decline.onClick.AddListener(Close);
+            confirm.Select();
         }
 
         private void Close()
         {
             Destroy(gameObject);
+            GameObject.Find("LeaveButton").GetComponent<Button>().Select();
         }
     }
 }
