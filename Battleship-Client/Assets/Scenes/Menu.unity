@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 424b6720ff5999446843ba414e58a907, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CursorMode: 0
+  m_CursorMode: 1
   m_CursorGraphic: {fileID: 40598663}
   m_CursorTransform: {fileID: 40598665}
   m_CursorSpeed: 400
