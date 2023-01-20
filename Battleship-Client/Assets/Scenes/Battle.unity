@@ -620,7 +620,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1229521230}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.4074227
+  m_Size: 0.40217197
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1643,8 +1643,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 222.51303, y: 0}
-  m_SizeDelta: {x: 405.02606, y: 0}
+  m_AnchoredPosition: {x: 253.47928, y: 0}
+  m_SizeDelta: {x: 466.95856, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &617791991
 MonoBehaviour:
@@ -2439,8 +2439,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 222.51303, y: 0}
-  m_SizeDelta: {x: 405.02606, y: 0}
+  m_AnchoredPosition: {x: 253.47928, y: 0}
+  m_SizeDelta: {x: 466.95856, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1076921951
 MonoBehaviour:
@@ -3692,6 +3692,7 @@ GameObject:
   - component: {fileID: 1434872906}
   - component: {fileID: 1434872905}
   - component: {fileID: 1434872904}
+  - component: {fileID: 1434872907}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -3780,6 +3781,18 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1434872907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1434872902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4caf4a5ab9eadf4aa514fd41c5049e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1458174354
 GameObject:
   m_ObjectHideFlags: 0
@@ -4865,8 +4878,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 222.51303, y: 0}
-  m_SizeDelta: {x: 405.02606, y: 0}
+  m_AnchoredPosition: {x: 253.47928, y: 0}
+  m_SizeDelta: {x: 466.95856, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1832477927
 MonoBehaviour:
