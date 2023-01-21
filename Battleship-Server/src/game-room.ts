@@ -175,7 +175,7 @@ export class GameRoom extends Room<State> {
 //        console.log(params);
 //        console.log('JSON');
 //        console.log(JSON.stringify(params));
-        fetch('http://192.168.137.171:8080/setGame', {
+        fetch('http://localhost:8080/setGame', {
 			method: 'post',
 			headers: {
 				'Accept': 'application/json',
