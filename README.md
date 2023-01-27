@@ -78,4 +78,4 @@ https://github.com/musapkahraman/battleship
 # Window Matrix
 
 This Project has been modified to be compatible with the Project window matrix 
-Link:https://github.com/crexodon/LED-Window-Matrix-Neo
+https://github.com/crexodon/LED-Window-Matrix-Neo
