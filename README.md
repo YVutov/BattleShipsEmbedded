@@ -72,4 +72,7 @@ Depending on your domain setup, you might need to create an HTTPS server as well
 
 ## License
 
+This project is a modification of the following project:
+https://github.com/musapkahraman/battleship
+
 [MIT](https://choosealicense.com/licenses/mit/)
