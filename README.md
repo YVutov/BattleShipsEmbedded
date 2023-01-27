@@ -7,8 +7,6 @@ Client code is written in C# to make use of the [Unity](https://unity.com/) game
 
 Server code is written in TypeScript.
 
-You can [play this game](https://muk.itch.io/amiral) on my itch.io page.
-
 ## Game
 
 The rules are a bit different from the classic battleship game. Each player has three shots per turn. This makes it
