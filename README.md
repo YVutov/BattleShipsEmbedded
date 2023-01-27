@@ -74,3 +74,8 @@ This project is a modification of the following project:
 https://github.com/musapkahraman/battleship
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Window Matrix
+
+This Project has been modified to be compatible with the Project window matrix 
+Link:https://github.com/crexodon/LED-Window-Matrix-Neo
